@@ -1,1 +1,1 @@
-
+Ushbu resitoryda python dasturlari joylashtiriladi
