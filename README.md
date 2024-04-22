@@ -1,1 +1,1 @@
-# xatoliklar_aniqlash
+
